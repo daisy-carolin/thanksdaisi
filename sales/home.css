@@ -1,0 +1,24 @@
+.topnav{
+    text-align: right;
+    flex: 1;
+    color:black;
+   
+
+}
+
+.topnav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 6px 12px;
+   
+
+}
+
+.topnav ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: medium;
+    font-weight: 200;
+    padding: 2% 8%;
+    color:whitesmoke;
+}
